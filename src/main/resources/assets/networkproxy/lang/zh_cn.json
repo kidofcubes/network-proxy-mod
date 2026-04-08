@@ -1,5 +1,6 @@
 {
   "modmenu.descriptionTranslation.networkproxy": "支持http/sock5代理并支持指定服务器代理的mod",
+  "gui.networkproxy.proxy_settings": "代理",
   "config.networkproxy.title": "网络代理设置",
   "config.networkproxy.category.general": "常规设置",
   "config.networkproxy.enabled": "启用代理",

@@ -1,5 +1,6 @@
 {
   "modmenu.descriptionTranslation.networkproxy": "A Minecraft mod with support for HTTP/SOCKS5 proxies and per-server proxy configuration.",
+  "gui.networkproxy.proxy_settings": "Proxies",
   "config.networkproxy.title": "Network Proxy Settings",
   "config.networkproxy.category.general": "General",
   "config.networkproxy.enabled": "Enable Proxy",
